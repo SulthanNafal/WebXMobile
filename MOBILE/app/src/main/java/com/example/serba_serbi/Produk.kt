@@ -1,5 +1,4 @@
 package com.example.serba_serbi
-
 data class Produk(
     val noProduk: String = "",
     val namaProduk: String = "",

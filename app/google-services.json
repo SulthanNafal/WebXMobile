@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "635322924399",
+    "project_id": "crudprodukapp-84dc8",
+    "storage_bucket": "crudprodukapp-84dc8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635322924399:android:99a16f8f608288f8adfc9a",
+        "android_client_info": {
+          "package_name": "com.example.serba_serbi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3cIvlT7EljIN_BrpQXDcGYHeS4LHoyys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
